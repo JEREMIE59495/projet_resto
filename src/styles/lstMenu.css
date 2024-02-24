@@ -1,0 +1,15 @@
+.lstMenu{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    width: 15%;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5em;
+    text-align: center;
+}
