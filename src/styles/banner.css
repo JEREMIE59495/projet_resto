@@ -1,0 +1,21 @@
+
+
+.banner{
+    height:8em;
+    width: 100%;
+    display: flex;
+    background-color: #0A051C;
+}
+
+.resto-logo{
+    width: 8em;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    width: 80%;
+/* padding: 0.4em;*/
+    text-align: center;
+    color:white;
+    font-size:3em;
+}
