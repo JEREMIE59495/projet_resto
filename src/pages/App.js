@@ -2,8 +2,7 @@
 import '../styles/App.css';
 import Banner from './component/Banner';
 import LstMenu from './clients/lst_menus';
-import Banner from './component/Banner';
-import LstMenu from './clients/lst_menus';
+
 
 function App() {
   return (
