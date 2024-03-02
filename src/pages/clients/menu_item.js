@@ -6,11 +6,11 @@ return(
     <h2>{title}</h2>
     <h3 class ='title'>Plats</h3>
     <p>{plats}</p>
-    <h3 class ='title'>description</h3>
+    <h3 class ='title'>Description</h3>
     <p>{description}</p>
-    <h3 class ='title'>dessert</h3>
+    <h3 class ='title'>Dessert</h3>
     <p>{dessert}</p>
-    <h3 class ='title'>boissons</h3>
+    <h3 class ='title'>Boissons</h3>
     <p>{boissons}</p>
  </li>
 )
