@@ -1,14 +1,25 @@
 .lstMenu{
-    width:100%;
+    width:96%;
     display: flex;
     justify-content: space-around;
+    background-color: #0A051C;
+    animation: display 5000ms;
+}
+
+@keyframes display {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 .card{
-    width: 15%;
+    width: 18%;
     display:flex;
     flex-wrap: wrap;
     flex-direction: row;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 10px;
     margin: 5em;
     text-align: center;

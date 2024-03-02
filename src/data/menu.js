@@ -2,8 +2,8 @@ export const menu = [
     {
         id:1,
         title:'Menu 1',
-        plats:'viandes',
-        description:' chosissez parmis nos variétées de viande provenant de nos éleveurs partenaires',
+        plats:'Viandes',
+        description:' Chosissez parmis nos variétées de viande provenant de nos éleveurs partenaires',
         dessert : 'mini frasier',
         boissons:  'soft , bière , vin , digestif'
     },
@@ -12,8 +12,8 @@ export const menu = [
         title:'Menu 2',
         plats :'Poissons',
         description :'Profitez de la pêche du jour !',
-        dessert : 'mille feuille aux fruits',
-        boissons:  'soft , bière , vin , digestif' 
+        dessert : 'Mille feuille aux fruits',
+        boissons:  'Soft , bière , vin , digestif' 
     },
     {
         id:3,
@@ -21,6 +21,6 @@ export const menu = [
         plats :'Végétariens',
         description :'Savourez nos légumes bio !!',
         dessert : 'Tiramisu à la figue et à la fleur d\'oranger',
-        boissons:  'soft , bière , vin , digestif' 
+        boissons:  'Soft , bière , vin , digestif' 
     }
 ]

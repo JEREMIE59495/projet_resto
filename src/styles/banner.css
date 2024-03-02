@@ -5,6 +5,7 @@
     width: 100%;
     display: flex;
     background-color: #0A051C;
+    border-bottom: 2px solid white;
 }
 
 .resto-logo{
